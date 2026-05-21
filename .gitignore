@@ -1,0 +1,16 @@
+node_modules/
+.next/
+out/
+dist/
+
+*.log
+server-start.err.log
+server-start.out.log
+
+.env
+.env.*
+!.env.example
+
+*.zip
+*.tgz
+*.tar.gz
